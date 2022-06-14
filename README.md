@@ -6,6 +6,6 @@
 
 -----------------------------------------------
 ### 💻 Teck Stack 💻
-![bigcastle5407's github stats](https://github-readme-stats.vercel.app/api?username=bigcastle&show_icons=true&color=auto)
-![bigcastle5407's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bigcastle&color=auto)
+![bigcastle5407's github stats](https://github-readme-stats.vercel.app/api?username=bigcastle5407&show_icons=true&color=auto)
+![bigcastle5407's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bigcastle5407&color=auto)
 
