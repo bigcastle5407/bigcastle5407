@@ -32,10 +32,6 @@
 
 
 
-### 🙌 It's me! 🙌
-<br>
-  
-![bigcastle5407's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigcastle5407&show_icons=true&theme=radical)
 
 
 </div>
